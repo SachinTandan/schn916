@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @schn916
-- 👀 I’m interested in JAVA SpringBoot and microservices.
-- 🌱 I’m currently learning html, css, js and Nodejs.
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Sachin Tandan
+- 👀 I’m working in JAVA SpringBoot and microservices.
+- 🌱 I have worked on html, css, js and Nodejs
 - 📫  reach me at https://www.linkedin.com/in/sachin-tandan-395860125/
 
 <!---
